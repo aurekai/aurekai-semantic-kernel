@@ -6,7 +6,7 @@
 
 Aurekai integration surface for Semantic Kernel.
 
-Status: planned
+Status: active
 Type: agent
 
 ## Core Template Set
